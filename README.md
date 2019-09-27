@@ -6,18 +6,19 @@ This project is a fullstack application with a REST API.
 
 This project was developed with:
 React | Redux | Thunk
-# 
+
 MongoDB | Mongoose
-#
+
 Semantic UI
 
 Dependencies:
+
 Flv
-#
+
 Fastify
-#
+
 React-Router-dom
-#
+
 Axios
-#
+
 Mongoose sequence
