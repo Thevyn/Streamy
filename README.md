@@ -5,13 +5,14 @@ A simlified streaming website to livestream your desktop through OBS(Open Broadc
 This project is a fullstack application with a REST API. 
 
 This project was developed with:
+
 React | Redux | Thunk
 
 MongoDB | Mongoose
 
 Semantic UI
 
-Dependencies:
+**Dependencies:**
 
 Flv
 
