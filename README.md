@@ -25,3 +25,5 @@ Axios
 Mongoose sequence
 
 Redux Form
+
+![Project gif](https://i.imgur.com/aD9yu29.gif)
