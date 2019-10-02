@@ -14,7 +14,7 @@ Semantic UI
 
 **Dependencies:**
 
-Flv
+Flv.js
 
 Fastify
 
@@ -23,3 +23,5 @@ React-Router-dom
 Axios
 
 Mongoose sequence
+
+Redux Form
