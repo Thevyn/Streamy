@@ -1,7 +1,6 @@
 const mongoose = require("mongoose");
 const fastify = require("fastify")();
 const routes = require("./routes");
-var bodyParser = require("body-parser");
 
 const {
   parsed: { MONGO_ATLAS_PW }
